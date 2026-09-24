@@ -81,3 +81,6 @@ class Buku {
       border: 1px solid #ffeeba;
       border-radius: 5px;
       margin-bottom:
+       </style>
+</head>
+</html>
